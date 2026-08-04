@@ -2,7 +2,6 @@ import React from "react";
 import { Link, useLocation } from "react-router-dom";
 import { Mail, Phone, MapPin, Globe } from "lucide-react";
 import { companyInfo } from "../../data/company";
-import logoDark from "../../assets/images/logo/logo-2.webp";
 
 export const Footer: React.FC = () => {
   const currentYear = new Date().getFullYear();
@@ -26,7 +25,7 @@ export const Footer: React.FC = () => {
           <div className="lg:col-span-1">
             <div className="mb-6">
               <img 
-                src={logoDark} 
+                src="/logo-white.webp" 
                 alt="Prayag Steel & Engineering Co. Logo" 
                 className="h-12 sm:h-14 w-auto object-contain" 
               />

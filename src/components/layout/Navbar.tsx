@@ -3,7 +3,6 @@ import { Link, NavLink, useLocation } from "react-router-dom";
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X, ChevronDown, ArrowRight } from "lucide-react";
 import { CatalogueDownloadButton } from "../ui/CatalogueDownloadButton";
-import logoLight from "../../assets/images/logo/logo.webp";
 import { divisions } from "../../data/company";
 import { getProductsByDivision, buildSubcategoryGroups } from "../../data/products";
 import type { Division } from "../../data/products/types";
@@ -117,7 +116,7 @@ export const Navbar: React.FC = () => {
               aria-label="Prayag Steel & Engineering Co. — Home"
             >
               <img
-                src={logoLight}
+                src="/logo-black.webp"
                 alt="Prayag Steel & Engineering Co. Logo"
                 className="h-10 sm:h-12 w-auto object-contain"
               />
@@ -329,7 +328,7 @@ export const Navbar: React.FC = () => {
               <div className="flex items-center justify-between p-4 border-b border-gray-100">
                 <Link to="/" className="flex items-center gap-2" onClick={() => { setMobileOpen(false); handleNavClick("/"); }}>
                   <img
-                    src={logoLight}
+                    src="/logo-black.webp"
                     alt="Prayag Steel Logo"
                     className="h-8 w-auto object-contain"
                   />
