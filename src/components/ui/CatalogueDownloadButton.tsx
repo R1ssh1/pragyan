@@ -12,7 +12,7 @@ interface CatalogueDownloadButtonProps {
 }
 
 export const CatalogueDownloadButton: React.FC<CatalogueDownloadButtonProps> = ({
-  pdfPath = "/catalogue/prayag-steel-catalogue.pdf",
+  pdfPath = "/catalogue/pragyan-steel-catalogue.pdf",
   className = "",
   id = "catalogue-download-btn",
   variant = "primary",
@@ -23,13 +23,13 @@ export const CatalogueDownloadButton: React.FC<CatalogueDownloadButtonProps> = (
     <motion.a
       id={id}
       href={pdfPath}
-      download="Prayag-Steel-Catalogue.pdf"
+      download="pragyan-steel-catalogue.pdf"
       whileHover={{ scale: 1.05, boxShadow: isWhite ? "0 12px 30px rgba(0, 0, 0, 0.15)" : "0 12px 30px rgba(227, 30, 36, 0.4)" }}
       whileTap={{ scale: 0.95 }}
       transition={{ duration: 0.2 }}
       className={`inline-flex items-center px-4 py-2.5 rounded-xl border no-underline select-none group ${isWhite ? "bg-white text-prayag-red border-white shadow-xl shadow-black/10" : "bg-prayag-red text-white border-red-500/50 shadow-lg"} ${className}`}
-      aria-label="Download Prayag Steel Catalogue PDF"
-      title="Download Our Catalogue — Prayag Steel & Engineering Co."
+      aria-label="Download Pragyan Steel Catalogue PDF"
+      title="Download Our Catalogue — Pragyan Steel & Engineering Co."
     >
       <img src={pdfIcon} alt="PDF" className="w-5 h-5 object-contain scale-300 ml-2" />
 

@@ -11,7 +11,7 @@ export function WhyChooseUs({ cards }: WhyChooseUsProps) {
   if (!cards || cards.length === 0) return null;
 
   return (
-    <section className="bg-prayag-black py-16 lg:py-24 relative overflow-hidden" aria-label="Why Choose Prayag Steel">
+    <section className="bg-prayag-black py-16 lg:py-24 relative overflow-hidden" aria-label="Why Choose Pragyan Steel">
       {/* Background Dots Pattern */}
       <div
         className="absolute inset-0 opacity-[0.12] pointer-events-none"
@@ -28,7 +28,7 @@ export function WhyChooseUs({ cards }: WhyChooseUsProps) {
           </span>
         </div>
         
-        <SectionHeading text="Why Choose Prayag Steel" as="h2" light className="mb-12" />
+        <SectionHeading text="Why Choose Pragyan Steel" as="h2" light className="mb-12" />
         
         {/* Balanced 2x2 Grid for standard 4 items */}
         <div className={`grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8 ${cards.length === 3 ? "lg:grid-cols-3" : ""}`}>

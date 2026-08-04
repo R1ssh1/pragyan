@@ -96,9 +96,9 @@ export const BlogPostPage: React.FC = () => {
   return (
     <>
       <PageMeta
-        title={`${post.title} | Prayag Steel Blog`}
+        title={`${post.title} | Pragyan Steel Blog`}
         description={post.excerpt}
-        canonical={`https://www.prayagsteel.in/blogs/${post.slug.current}`}
+        canonical={`https://pragyan-nine.vercel.app/blogs/${post.slug.current}`}
         ogImage={ogImage}
         type="article"
       />

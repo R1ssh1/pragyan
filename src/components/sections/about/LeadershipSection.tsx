@@ -61,7 +61,7 @@ export const LeadershipSection: React.FC = () => {
             <div className="relative aspect-[16/9] lg:aspect-video rounded-3xl overflow-hidden shadow-xl">
               <img
                 src="/assets/images/about/leadership.webp"
-                alt="Prayag Leadership"
+                alt="Pragyan Leadership"
                 className="w-full h-full object-cover"
               />
             </div>
@@ -81,7 +81,7 @@ export const LeadershipSection: React.FC = () => {
               </span>
             </div>
             <SectionHeading
-              text="Leadership at Prayag"
+              text="Leadership at Pragyan"
               highlightWords={["Leadership"]}
               as="h2"
               subtitle="Three generations of vision — each building upon the last, forging a legacy as enduring as the steel they champion."

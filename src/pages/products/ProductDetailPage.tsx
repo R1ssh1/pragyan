@@ -141,7 +141,7 @@ export const ProductDetailPage: React.FC = () => {
       <PageMeta
         title={product.metaTitle}
         description={product.metaDescription}
-        canonical={`https://www.prayagsteel.in/products/${div}/${slug}`}
+        canonical={`https://pragyan-nine.vercel.app/products/${div}/${slug}`}
         type="product"
       />
       <ProductSchema product={product} />
@@ -521,7 +521,7 @@ export const ProductDetailPage: React.FC = () => {
                     Enquire Now
                   </Link>
                   <a
-                    href={`mailto:prayagsteelindia@yahoo.co.in?subject=Enquiry%3A%20${encodeURIComponent(product.name)}&body=Hi%20Prayag%20Steel%2C%0A%0AI%20am%20interested%20in%20${encodeURIComponent(product.name)}.%20Please%20send%20me%20a%20quote.`}
+                    href={`mailto:aaryakhaireavadhoot@gmail.com?subject=Enquiry%3A%20${encodeURIComponent(product.name)}&body=Hi%20Pragyan%20Steel%2C%0A%0AI%20am%20interested%20in%20${encodeURIComponent(product.name)}.%20Please%20send%20me%20a%20quote.`}
                     className="inline-flex items-center gap-2 px-6 py-3 rounded-lg border-2 border-gray-200 text-gray-700 font-body font-bold uppercase tracking-widest text-sm hover:border-prayag-red hover:text-prayag-red transition-colors"
                   >
                     Email Us Directly

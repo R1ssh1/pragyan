@@ -12,9 +12,9 @@ import { FooterCTA } from "../components/sections/FooterCTA";
 export const About: React.FC = () => (
   <>
     <PageMeta
-      title="About Prayag Steel & Engineering Co. — 30 Years of Steel Excellence"
-      description="Learn about Prayag Steel's three-decade journey from a Mumbai trading firm to a leading manufacturer of stainless steel pipes, tubes, fittings, and flanges — trusted by BARC, ISRO, NPCIL, DRDO, and more."
-      canonical="https://www.prayagsteel.in/about"
+      title="About Pragyan Steel & Engineering Co. — 30 Years of Steel Excellence"
+      description="Learn about Pragyan Steel's three-decade journey from a Virar trading firm to a leading manufacturer of stainless steel pipes, tubes, fittings, and flanges — trusted by BARC, ISRO, NPCIL, DRDO, and more."
+      canonical="https://pragyan-nine.vercel.app/about"
     />
 
     <main>
@@ -33,7 +33,7 @@ export const About: React.FC = () => (
       {/* 4. The Steel Legacy Timeline (1994–2024) */}
       <TimelineSection />
 
-      {/* 5. Leadership — Three Generations */}
+      {/* 5. Leadership — Two Generations */}
       <LeadershipSection />
 
       {/* 6. Trusted By — Premier Institutions */}

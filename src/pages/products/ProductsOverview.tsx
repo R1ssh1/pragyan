@@ -10,9 +10,9 @@ import { FooterCTA } from "../../components/sections/FooterCTA";
 export const ProductsOverview: React.FC = () => (
   <>
     <PageMeta
-      title="Products — Pipes, Tubes, Fittings & Flanges | Prayag Steel"
-      description="Explore Prayag Steel's complete product range: stainless steel flanges, fittings, pipes, and tubes in exotic alloys for nuclear, defence, aerospace, and industrial applications."
-      canonical="https://www.prayagsteel.in/products"
+      title="Products — Pipes, Tubes, Fittings & Flanges | Pragyan Steel"
+      description="Explore Pragyan Steel's complete product range: stainless steel flanges, fittings, pipes, and tubes in exotic alloys for nuclear, defence, aerospace, and industrial applications."
+      canonical="https://pragyan-nine.vercel.app/products"
     />
     <BreadcrumbSchema
       items={[

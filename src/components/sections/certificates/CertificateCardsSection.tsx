@@ -43,7 +43,7 @@ export const CertificateCardsSection: React.FC = () => (
           centered
         />
         <p className="mt-5 text-gray-500 font-body max-w-2xl mx-auto leading-relaxed">
-          Prayag Steel holds certifications and compliance approvals from internationally
+          Pragyan Steel holds certifications and compliance approvals from internationally
           recognised bodies. Certificate scans are available on request.
         </p>
       </motion.div>

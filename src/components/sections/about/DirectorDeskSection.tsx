@@ -42,13 +42,13 @@ export const DirectorDeskSection: React.FC = () => (
           {/* Full message paragraphs */}
           <div className="space-y-5 text-gray-600 font-body leading-relaxed text-[15px] mb-10">
             <p>
-              In 1994, my father, <strong className="text-prayag-black font-semibold">Shri P. J. Patel</strong>, began <strong className="text-prayag-black font-semibold">Prayag Steel & Engineering Company</strong> from a small office in Mumbai. With nothing but determination, integrity, and the courage to dream, he built relationships with some of India's most prestigious institutions—<strong className="text-prayag-black font-semibold">BARC, ISRO, IGCAR, NFC, NPCIL</strong>. His vision and commitment laid the foundation of a company rooted in trust and strength.
+              In 1994, my father, <strong className="text-prayag-black font-semibold">Pandurang Khaire</strong>, began <strong className="text-prayag-black font-semibold">Pragyan Steel & Engineering Company</strong> from a small office in Virar. With nothing but determination, integrity, and the courage to dream, he built relationships with some of India's most prestigious institutions—<strong className="text-prayag-black font-semibold">BARC, ISRO, IGCAR, NFC, NPCIL</strong>. His vision and commitment laid the foundation of a company rooted in trust and strength.
             </p>
             <p>
               As the second generation, I feel a deep sense of pride and gratitude. Pride in the path he created, and gratitude for the trust our clients continue to place in us. Carrying forward his legacy is both an honor and a responsibility—one that inspires me every single day.
             </p>
             <p>
-              From a modest trading firm, we have grown into a manufacturing group with facilities in <strong className="text-prayag-black font-semibold">Umbergaon and Vasai</strong>. This growth reflects more than capacity—it reflects a generational shift, a renewed vision, and our commitment to building for the future.
+              From a modest trading firm, we have grown into a manufacturing group with facilities in <strong className="text-prayag-black font-semibold">Shirgaon</strong>. This growth reflects more than capacity—it reflects a generational shift, a renewed vision, and our commitment to building for the future.
             </p>
             <p>
               But our journey does not stop here. With strong foundations in pipes, tubes, and fittings, we are also preparing to diversify into <strong className="text-prayag-black font-semibold">equipment manufacturing</strong>—a step that will transform us from a trusted supplier into a complete solutions partner for industries that demand reliability at every level.
@@ -60,7 +60,7 @@ export const DirectorDeskSection: React.FC = () => (
               As we look ahead, I invite you to join us on this journey of growth and innovation. Together, we can build partnerships that are as strong and enduring as the steel we shape.
             </p>
             <p>
-              <strong className="text-prayag-red font-heading tracking-wide uppercase text-lg">STEEL. STRENGTH. PRAYAG.</strong>
+              <strong className="text-prayag-red font-heading tracking-wide uppercase text-lg">STEEL. STRENGTH. PRAGYAN.</strong>
             </p>
           </div>
 
@@ -95,7 +95,7 @@ export const DirectorDeskSection: React.FC = () => (
             {/* Floating name card */}
             <div className="absolute -bottom-5 -right-5 z-20 bg-prayag-black rounded-2xl shadow-2xl p-5 max-w-[200px]">
               <p className="text-white font-body font-bold  uppercase leading-tight">
-                Jayesh Patel
+                Avadhoot Khaire
               </p>
               <p className="text-prayag-red text-[10px] font-body uppercase tracking-[0.18em] mt-1">
                 Director, 2023–Present

@@ -15,14 +15,14 @@ const slideUp: Variants = {
 export const CertificatesHeroSection: React.FC = () => (
   <section
     className="relative bg-prayag-black overflow-hidden"
-    aria-label="Certificates & Approvals — Prayag Steel"
+    aria-label="Certificates & Approvals — Pragyan Steel"
     style={{ minHeight: "58vh" }}
   >
     {/* Background image with dark overlay */}
     <div className="absolute inset-0 z-0">
       <img
         src="/assets/images/pages/certificates-hero.webp"
-        alt="Prayag Steel Certificates"
+        alt="Pragyan Steel Certificates"
         className="w-full h-full object-cover opacity-60 object-left -scale-x-100"
       />
       <div className="absolute inset-0 bg-gradient-to-r from-prayag-black via-prayag-black/80 to-transparent" />

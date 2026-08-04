@@ -26,22 +26,22 @@ import type { Transition } from "framer-motion";
 // ── SEO meta per division ─────────────────────────────────────────────────────
 const divisionMeta: Record<Division, { metaTitle: string; metaDescription: string }> = {
   flanges: {
-    metaTitle: "Flanges | Prayag Steel & Engineering Co.",
+    metaTitle: "Flanges | Pragyan Steel & Engineering Co.",
     metaDescription:
       "Forged, machined, CNC-finished flanges. WNRF, BLRF, Slip-On, Socket Weld, Lap Joint in SS, CS, Duplex, Inconel, Monel, Hastelloy. 1/2\"–36\", Class 150#–2500#.",
   },
   fittings: {
-    metaTitle: "Fittings | Prayag Steel & Engineering Co.",
+    metaTitle: "Fittings | Pragyan Steel & Engineering Co.",
     metaDescription:
       "Seamless & welded butt-weld fittings, forged fittings — elbows, tees, reducers, caps. 1/2\"–16\" NB. ASME B16.9/B16.11. SS, Duplex, Inconel & exotic alloys.",
   },
   pipes: {
-    metaTitle: "Pipes | Prayag Steel & Engineering Co.",
+    metaTitle: "Pipes | Pragyan Steel & Engineering Co.",
     metaDescription:
       "Seamless & welded stainless steel pipes in 20+ grades — SS304/316, Inconel, Hastelloy, Duplex, Titanium, Cupro Nickel. 6mm–168mm OD. BA, P&P, mirror finish.",
   },
   tubes: {
-    metaTitle: "Tubes | Proficient Tubes Pvt. Ltd. — Prayag Steel",
+    metaTitle: "Tubes | Proficient Steel Pvt. Ltd. — Pragyan Steel",
     metaDescription:
       "Precision seamless & welded tubes 6mm–219mm OD, 0.5mm–12mm WT, up to 12m. SS, Inconel, Hastelloy, Titanium. Hydrostatic + eddy-current tested.",
   },
@@ -125,7 +125,7 @@ export const DivisionPage: React.FC = () => {
       <PageMeta
         title={meta.metaTitle}
         description={meta.metaDescription}
-        canonical={`https://www.prayagsteel.in/products/${div}`}
+        canonical={`https://pragyan-nine.vercel.app/products/${div}`}
       />
       <BreadcrumbSchema
         items={[

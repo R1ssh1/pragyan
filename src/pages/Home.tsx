@@ -13,9 +13,9 @@ export const Home: React.FC = () => {
   return (
     <>
       <PageMeta
-        title="Prayag Steel & Engineering Co. — Pipes, Tubes, Fittings & Flanges"
+        title="Pragyan Steel & Engineering Co. — Pipes, Tubes, Fittings & Flanges"
         description="Manufacturer and supplier of high-performance stainless steel pipes, tubes, fittings, and flanges for nuclear, defence, aerospace, and petrochemical industries since 1994."
-        canonical="https://www.prayagsteel.in/"
+        canonical="https://pragyan-nine.vercel.app/"
       />
 
       <main>

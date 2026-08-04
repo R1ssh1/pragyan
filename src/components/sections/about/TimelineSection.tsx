@@ -190,7 +190,7 @@ export const TimelineSection: React.FC = () => {
             <div className="h-0.5 w-8 bg-prayag-red" aria-hidden="true" />
           </div>
           <SectionHeading
-            text="The Steel Legacy of Prayag"
+            text="The Steel Legacy of Pragyan"
             highlightWords={["Steel", "Legacy"]}
             as="h2"
             centered
@@ -293,7 +293,7 @@ export const TimelineSection: React.FC = () => {
             <p className="text-white font-body text-base sm:text-lg leading-relaxed">
               ⚡ From Earth to the Moon, from reactors to rockets —{" "}
               <span className="text-prayag-red font-semibold">
-                Prayag has been the steel spine of India's boldest scientific dreams.
+                Pragyan has been the steel spine of India's boldest scientific dreams.
               </span>
             </p>
           </div>

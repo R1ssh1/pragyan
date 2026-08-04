@@ -16,7 +16,7 @@ const slideUp: Variants = {
 export const BlogHeroSection: React.FC = () => (
   <section
     className="relative bg-prayag-black overflow-hidden"
-    aria-label="Prayag Steel — Industry Blog"
+    aria-label="Pragyan Steel — Industry Blog"
     style={{ minHeight: "58vh" }}
   >
     {/* Decorative rings */}
@@ -46,7 +46,7 @@ export const BlogHeroSection: React.FC = () => (
     <div className="absolute inset-0 z-0">
       <img
         src="/assets/images/hero/hero-banner.webp"
-        alt="Prayag Steel Blog Hero Banner"
+        alt="Pragyan Steel Blog Hero Banner"
         className="w-full h-full object-cover object-center opacity-40"
         onError={(e) => {
           (e.target as HTMLImageElement).style.display = 'none';
@@ -88,7 +88,7 @@ export const BlogHeroSection: React.FC = () => (
           <span className="inline-flex items-center gap-3 px-5 py-2 rounded-full border border-prayag-red/30 bg-prayag-red/10">
             <span className="w-2 h-2 rounded-full bg-prayag-red animate-pulse" aria-hidden="true" />
             <span className="text-prayag-red font-body text-[10px] sm:text-xs font-semibold uppercase tracking-[0.22em]">
-              Industry Insights · Prayag Steel
+              Industry Insights · Pragyan Steel
             </span>
           </span>
         </motion.div>

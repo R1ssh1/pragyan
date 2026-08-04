@@ -29,11 +29,11 @@ const trustCards = [
 
 export const ProductsTrustBand: React.FC = () => {
   return (
-    <section className="bg-off-white py-20 lg:py-28 overflow-x-hidden" aria-label="Why Prayag Steel">
+    <section className="bg-off-white py-20 lg:py-28 overflow-x-hidden" aria-label="Why Pragyan Steel">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 lg:gap-24 items-center">
           
-          {/* Left Column - Why Prayag */}
+          {/* Left Column - Why Pragyan */}
           <motion.div
             initial={{ opacity: 0, x: -40 }}
             whileInView={{ opacity: 1, x: 0 }}
@@ -43,7 +43,7 @@ export const ProductsTrustBand: React.FC = () => {
             <div className="flex items-center gap-3 mb-6">
               <div className="h-0.5 w-8 bg-prayag-red" aria-hidden="true" />
               <span className="text-prayag-red font-body text-xs font-semibold uppercase tracking-[0.22em]">
-                Why Prayag?
+                Why Pragyan?
               </span>
             </div>
 

@@ -6,9 +6,9 @@ import { ContactContentSection } from "../components/sections/contact/ContactCon
 export const Contact: React.FC = () => (
   <>
     <PageMeta
-      title="Contact Us | Prayag Steel & Engineering Co."
-      description="Get in touch with Prayag Steel for inquiries regarding stainless steel flanges, fittings, pipes, and tubes. Our manufacturing facility and headquarters are ready to assist you."
-      canonical="https://www.prayagsteel.in/contact"
+      title="Contact Us | Pragyan Steel & Engineering Co."
+      description="Get in touch with Pragyan Steel for inquiries regarding stainless steel flanges, fittings, pipes, and tubes. Our manufacturing facility and headquarters are ready to assist you."
+      canonical="https://pragyan-nine.vercel.app/contact"
     />
 
     <main>

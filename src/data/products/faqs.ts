@@ -84,7 +84,7 @@ export function getProductFaqs(product: Product): { question: string; answer: st
 
   return [
     {
-      question: `What is ${product.name} and how is it manufactured by Prayag Steel?`,
+      question: `What is ${product.name} and how is it manufactured by Pragyan Steel?`,
       answer: `${product.name} is a high-performance industrial ${divisionName} manufactured to stringent dimensional and metallurgical tolerances. ${typeStr}it is engineered to withstand demanding operational conditions in process piping systems. Every unit undergoes controlled heat treatment, precision machining, surface passivation, and rigorous quality verification at our manufacturing facility in India to ensure maximum structural integrity and long-term reliability.`,
     },
     {
@@ -105,15 +105,15 @@ export function getProductFaqs(product: Product): { question: string; answer: st
     },
     {
       question: `What non-destructive testing (NDT) and quality inspections does ${product.name} undergo?`,
-      answer: `Quality assurance is paramount at Prayag Steel. Every ${product.name} is subjected to a comprehensive inspection protocol that includes 100% Positive Material Identification (PMI), hydrostatic pressure testing, ultrasonic testing (UT) or radiographic testing (RT) where applicable, liquid penetrant inspection (LPI), precision optical/tactile dimensional verification, and hardness testing.`,
+      answer: `Quality assurance is paramount at Pragyan Steel. Every ${product.name} is subjected to a comprehensive inspection protocol that includes 100% Positive Material Identification (PMI), hydrostatic pressure testing, ultrasonic testing (UT) or radiographic testing (RT) where applicable, liquid penetrant inspection (LPI), precision optical/tactile dimensional verification, and hardness testing.`,
     },
     {
       question: `What documentation and Material Test Certificates (MTCs) are provided with ${product.name}?`,
       answer: `We provide complete traceability and comprehensive project documentation with every shipment of ${product.name}. Standard deliverables include EN 10204 3.1 Material Test Certificates (MTCs), raw material chemical analysis reports, mechanical test charts, heat treatment records, and NDT inspection reports. Third-party inspection (TPI) per EN 10204 3.2 is readily arranged through Lloyds, DNV, TUV, Bureau Veritas, or customer-appointed agencies.`,
     },
     {
-      question: `Why choose Prayag Steel as your manufacturer and supplier for ${product.name} in India?`,
-      answer: `With over three decades of manufacturing excellence since 1994, Prayag Steel & Engineering Co. combines state-of-the-art CNC machining capabilities, extensive raw material inventory, and strict ISO-certified quality management. We offer competitive factory-direct pricing, rapid manufacturing turnaround times, custom engineering support, and robust export packaging for global deliveries.`,
+      question: `Why choose Pragyan Steel as your manufacturer and supplier for ${product.name} in India?`,
+      answer: `With over three decades of manufacturing excellence since 1994, Pragyan Steel & Engineering Co. combines state-of-the-art CNC machining capabilities, extensive raw material inventory, and strict ISO-certified quality management. We offer competitive factory-direct pricing, rapid manufacturing turnaround times, custom engineering support, and robust export packaging for global deliveries.`,
     },
   ];
 }

@@ -16,14 +16,14 @@ const slideUp: Variants = {
 export const QualityHeroSection: React.FC = () => (
   <section
     className="relative bg-prayag-black overflow-hidden overflow-x-hidden"
-    aria-label="Quality Policy — Prayag Steel"
+    aria-label="Quality Policy — Pragyan Steel"
     style={{ minHeight: "60vh" }}
   >
     {/* Background image with dark overlay */}
     <div className="absolute inset-0 z-0">
       <img
         src="/assets/images/pages/quality-hero.webp"
-        alt="Prayag Steel Quality Assurance"
+        alt="Pragyan Steel Quality Assurance"
         className="w-full h-full object-cover opacity-60 object-center"
       />
       <div className="absolute inset-0 bg-gradient-to-r from-prayag-black via-prayag-black/80 to-transparent" />

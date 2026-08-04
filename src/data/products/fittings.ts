@@ -125,8 +125,8 @@ export const fittings: Product[] = [
     ],
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/90-degree-long-radius-elbow.webp",
-    metaTitle: "90 Degree Long Radius Elbow Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "90 Degree LR Elbows in SS, Duplex, Super Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", SCH 5S–XXS. ASME B16.9. Seamless, welded & fabricated. Manufacturer and supplier in India. Prayag Steel India.",
+    metaTitle: "90 Degree Long Radius Elbow Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "90 Degree LR Elbows in SS, Duplex, Super Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", SCH 5S–XXS. ASME B16.9. Seamless, welded & fabricated. Manufacturer and supplier in India. Pragyan Steel India.",
   },
 
   // ── 2. 45 Degree Long Radius Elbow ───────────────────────────────────────
@@ -154,8 +154,8 @@ export const fittings: Product[] = [
     ],
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/45-degree-long-radius-elbow.webp",
-    metaTitle: "45 Degree Long Radius Elbow Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "45 Degree LR Elbows in SS, Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", SCH 5S–XXS. ASME B16.9. Seamless & welded construction. Manufacturer and supplier in India. Prayag Steel India.",
+    metaTitle: "45 Degree Long Radius Elbow Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "45 Degree LR Elbows in SS, Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", SCH 5S–XXS. ASME B16.9. Seamless & welded construction. Manufacturer and supplier in India. Pragyan Steel India.",
   },
 
   // ── 3. 180 Degree Return Bend ─────────────────────────────────────────────
@@ -183,8 +183,8 @@ export const fittings: Product[] = [
     ],
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/180-degree-return-bend.webp",
-    metaTitle: "180 Degree Return Bend Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "180 Degree Return Bends in SS, Duplex, Inconel, Hastelloy. LR & SR configurations. 1/2\"–24\", ASME B16.9. Heat exchangers, coil assemblies. Manufacturer and supplier in India. Prayag Steel India.",
+    metaTitle: "180 Degree Return Bend Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "180 Degree Return Bends in SS, Duplex, Inconel, Hastelloy. LR & SR configurations. 1/2\"–24\", ASME B16.9. Heat exchangers, coil assemblies. Manufacturer and supplier in India. Pragyan Steel India.",
   },
 
   // ── 4. Short Radius Elbow ─────────────────────────────────────────────────
@@ -209,8 +209,8 @@ export const fittings: Product[] = [
     ],
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/short-radius-elbow.webp",
-    metaTitle: "Short Radius Elbow Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "Short Radius Elbows in SS, Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", SCH 5S–XXS. ASME B16.28. Compact piping layouts. Manufacturer and supplier in India. Prayag Steel India.",
+    metaTitle: "Short Radius Elbow Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "Short Radius Elbows in SS, Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", SCH 5S–XXS. ASME B16.28. Compact piping layouts. Manufacturer and supplier in India. Pragyan Steel India.",
   },
 
   // ── 5. Equal Tee ──────────────────────────────────────────────────────────
@@ -232,8 +232,8 @@ export const fittings: Product[] = [
     ],
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/equal-tee.webp",
-    metaTitle: "Equal Tee Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "Equal Tees in SS, Duplex, Super Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", ASME B16.9. Chemical, power, oil & gas, water treatment. Manufacturer and supplier in India. Prayag Steel India.",
+    metaTitle: "Equal Tee Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "Equal Tees in SS, Duplex, Super Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", ASME B16.9. Chemical, power, oil & gas, water treatment. Manufacturer and supplier in India. Pragyan Steel India.",
   },
 
   // ── 6. Reducing Tee ───────────────────────────────────────────────────────
@@ -252,8 +252,8 @@ export const fittings: Product[] = [
     specs: FALLBACK_SPECS,
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/reducing-tee.webp",
-    metaTitle: "Reducing Tee Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "Reducing Tees in SS, Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", ASME B16.9. Seamless, welded & fabricated. Pipeline branch connections. Manufacturer and supplier in India. Prayag Steel India.",
+    metaTitle: "Reducing Tee Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "Reducing Tees in SS, Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", ASME B16.9. Seamless, welded & fabricated. Pipeline branch connections. Manufacturer and supplier in India. Pragyan Steel India.",
   },
 
   // ── 7. Concentric Reducer ─────────────────────────────────────────────────
@@ -272,8 +272,8 @@ export const fittings: Product[] = [
     specs: FALLBACK_SPECS,
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/concentric-reducer.webp",
-    metaTitle: "Concentric Reducer Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "Concentric Reducers in SS, Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", ASME B16.9. Seamless, welded & fabricated. Centreline-maintained transitions. Manufacturer and supplier in India. Prayag Steel.",
+    metaTitle: "Concentric Reducer Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "Concentric Reducers in SS, Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", ASME B16.9. Seamless, welded & fabricated. Centreline-maintained transitions. Manufacturer and supplier in India. Pragyan Steel.",
   },
 
   // ── 8. Eccentric Reducer ──────────────────────────────────────────────────
@@ -292,8 +292,8 @@ export const fittings: Product[] = [
     specs: FALLBACK_SPECS,
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/eccentric-reducer.webp",
-    metaTitle: "Eccentric Reducer Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "Eccentric Reducers in SS, Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", ASME B16.9. Prevents air entrapment. Horizontal pump suction lines. Manufacturer and supplier in India. Prayag Steel.",
+    metaTitle: "Eccentric Reducer Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "Eccentric Reducers in SS, Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", ASME B16.9. Prevents air entrapment. Horizontal pump suction lines. Manufacturer and supplier in India. Pragyan Steel.",
   },
 
   // ── 9. Pipe Cap (End Cap) ─────────────────────────────────────────────────
@@ -312,8 +312,8 @@ export const fittings: Product[] = [
     specs: FALLBACK_SPECS,
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/buttweld-fitting-pipe-cap-end-cap.webp",
-    metaTitle: "Pipe Cap (End Cap) Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "Pipe Caps in SS, Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", ASME B16.9. Permanent and temporary pipe end sealing. Seamless & welded. Manufacturer and supplier in India. Prayag Steel India.",
+    metaTitle: "Pipe Cap (End Cap) Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "Pipe Caps in SS, Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", ASME B16.9. Permanent and temporary pipe end sealing. Seamless & welded. Manufacturer and supplier in India. Pragyan Steel India.",
   },
 
   // ── 10. Stub End (Short Pattern) ──────────────────────────────────────────
@@ -336,8 +336,8 @@ export const fittings: Product[] = [
     ],
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/buttweld-fitting-stub-end-short-pattern.webp",
-    metaTitle: "Stub End Short Pattern Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "Stub Ends (Short Pattern) for Lap Joint Flanges in SS, Duplex, Inconel, Hastelloy. 1/2\"–48\", MSS SP-43. Precision-machined face. Frequent-dismantle service. Manufacturer and supplier in India. Prayag Steel.",
+    metaTitle: "Stub End Short Pattern Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "Stub Ends (Short Pattern) for Lap Joint Flanges in SS, Duplex, Inconel, Hastelloy. 1/2\"–48\", MSS SP-43. Precision-machined face. Frequent-dismantle service. Manufacturer and supplier in India. Pragyan Steel.",
   },
 
   // ── 11. Stub End (Long Pattern) ───────────────────────────────────────────
@@ -360,8 +360,8 @@ export const fittings: Product[] = [
     ],
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/buttweld-fitting-stub-end-long-pattern.webp",
-    metaTitle: "Stub End Long Pattern Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "Stub Ends (Long Pattern) for Lap Joint Flanges in SS, Duplex, Inconel, Hastelloy. 1/2\"–48\", MSS SP-43. Extended body for greater rigidity. Frequent-dismantle service. Manufacturer and supplier in India. Prayag Steel.",
+    metaTitle: "Stub End Long Pattern Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "Stub Ends (Long Pattern) for Lap Joint Flanges in SS, Duplex, Inconel, Hastelloy. 1/2\"–48\", MSS SP-43. Extended body for greater rigidity. Frequent-dismantle service. Manufacturer and supplier in India. Pragyan Steel.",
   },
 
   // ── 12. Cross ─────────────────────────────────────────────────────────────
@@ -380,8 +380,8 @@ export const fittings: Product[] = [
     specs: FALLBACK_SPECS,
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/cross-fitting.webp",
-    metaTitle: "Cross Fitting Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "Cross Fittings in SS, Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", ASME B16.9. Four-way pipeline junction. Seamless, welded & fabricated. Manufacturer and supplier in India. Prayag Steel India.",
+    metaTitle: "Cross Fitting Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "Cross Fittings in SS, Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", ASME B16.9. Four-way pipeline junction. Seamless, welded & fabricated. Manufacturer and supplier in India. Pragyan Steel India.",
   },
 
   // ── 13. Lateral Tee (45 Degree) ───────────────────────────────────────────
@@ -403,8 +403,8 @@ export const fittings: Product[] = [
     ],
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/buttweld-fitting-lateral-tee-45deg.webp",
-    metaTitle: "Lateral Tee 45 Degree Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "Lateral Tees (45 Degree) in SS, Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", ASME B16.9. Reduced turbulence at branch. Seamless, welded & fabricated. Manufacturer and supplier in India. Prayag Steel.",
+    metaTitle: "Lateral Tee 45 Degree Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "Lateral Tees (45 Degree) in SS, Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\", ASME B16.9. Reduced turbulence at branch. Seamless, welded & fabricated. Manufacturer and supplier in India. Pragyan Steel.",
   },
 
   // ── 14. Pipe Bend ─────────────────────────────────────────────────────────
@@ -426,8 +426,8 @@ export const fittings: Product[] = [
     ],
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/pipe-bend.webp",
-    metaTitle: "Pipe Bend Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "Pipe Bends (3D, 5D, 8D, 10D) in SS, Duplex, Inconel, Hastelloy. 1/2\"–48\", ASME B16.9. Ultra-low pressure drop. Induction & cold-formed. Manufacturer and supplier in India. Prayag Steel India.",
+    metaTitle: "Pipe Bend Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "Pipe Bends (3D, 5D, 8D, 10D) in SS, Duplex, Inconel, Hastelloy. 1/2\"–48\", ASME B16.9. Ultra-low pressure drop. Induction & cold-formed. Manufacturer and supplier in India. Pragyan Steel India.",
   },
 
   // ── 15. Miter Bend ────────────────────────────────────────────────────────
@@ -446,8 +446,8 @@ export const fittings: Product[] = [
     specs: FALLBACK_SPECS,
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/miter-bend.webp",
-    metaTitle: "Miter Bend Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "Miter Bends fabricated to customer drawings in SS, Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\". Project-specific engineering. Manufacturer and supplier in India. Prayag Steel India.",
+    metaTitle: "Miter Bend Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "Miter Bends fabricated to customer drawings in SS, Duplex, Inconel, Hastelloy, Titanium. 1/2\"–48\". Project-specific engineering. Manufacturer and supplier in India. Pragyan Steel India.",
   },
 
   // ── 16. Barred Tee ────────────────────────────────────────────────────────
@@ -466,8 +466,8 @@ export const fittings: Product[] = [
     specs: FALLBACK_SPECS,
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/barred-tee.webp",
-    metaTitle: "Barred Tee Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "Barred Tees for piggable pipelines in SS, Duplex, Inconel, Hastelloy. 1/2\"–48\". Customer drawing-based fabrication. Oil & gas, water, process pipelines. Manufacturer and supplier in India. Prayag Steel.",
+    metaTitle: "Barred Tee Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "Barred Tees for piggable pipelines in SS, Duplex, Inconel, Hastelloy. 1/2\"–48\". Customer drawing-based fabrication. Oil & gas, water, process pipelines. Manufacturer and supplier in India. Pragyan Steel.",
   },
 
   // ── 17. Swage Nipple ──────────────────────────────────────────────────────
@@ -490,8 +490,8 @@ export const fittings: Product[] = [
     ],
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/swage-nipple.webp",
-    metaTitle: "Swage Nipple Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "Swage Nipples (concentric & eccentric) in SS, Duplex, Inconel, Hastelloy, Titanium. Small-bore diameter transitions. Instrumentation, branch connections. Manufacturer and supplier in India. Prayag Steel.",
+    metaTitle: "Swage Nipple Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "Swage Nipples (concentric & eccentric) in SS, Duplex, Inconel, Hastelloy, Titanium. Small-bore diameter transitions. Instrumentation, branch connections. Manufacturer and supplier in India. Pragyan Steel.",
   },
 
   // ── 18. Pipe Nipple ───────────────────────────────────────────────────────
@@ -514,8 +514,8 @@ export const fittings: Product[] = [
     ],
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/pipe-nipple.webp",
-    metaTitle: "Pipe Nipple Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "Pipe Nipples (threaded, plain end, welded) in SS, Duplex, Inconel, Hastelloy, Titanium. Compact assembly connectors. Instrumentation & process piping. Manufacturer and supplier in India. Prayag Steel.",
+    metaTitle: "Pipe Nipple Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "Pipe Nipples (threaded, plain end, welded) in SS, Duplex, Inconel, Hastelloy, Titanium. Compact assembly connectors. Instrumentation & process piping. Manufacturer and supplier in India. Pragyan Steel.",
   },
 
   // ── 19. Reducer Insert ────────────────────────────────────────────────────
@@ -538,8 +538,8 @@ export const fittings: Product[] = [
     ],
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/reducer-insert.webp",
-    metaTitle: "Reducer Insert Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "Reducer Inserts (SW & threaded) in SS, Duplex, Inconel, Hastelloy. In-fitting bore reduction for small-bore piping. Space-efficient diameter transitions. Manufacturer and supplier in India. Prayag Steel.",
+    metaTitle: "Reducer Insert Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "Reducer Inserts (SW & threaded) in SS, Duplex, Inconel, Hastelloy. In-fitting bore reduction for small-bore piping. Space-efficient diameter transitions. Manufacturer and supplier in India. Pragyan Steel.",
   },
 
   // ── 20. Header Assembly ───────────────────────────────────────────────────
@@ -558,8 +558,8 @@ export const fittings: Product[] = [
     specs: FALLBACK_SPECS,
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/header-assembly.webp",
-    metaTitle: "Header Assembly Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "Header Assemblies fabricated to customer drawings in SS, Duplex, Inconel, Hastelloy, Titanium. Flow distribution manifolds. Chemical, power, oil & gas. Manufacturer and supplier in India. Prayag Steel.",
+    metaTitle: "Header Assembly Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "Header Assemblies fabricated to customer drawings in SS, Duplex, Inconel, Hastelloy, Titanium. Flow distribution manifolds. Chemical, power, oil & gas. Manufacturer and supplier in India. Pragyan Steel.",
   },
 
   // ── 21. Transition Piece ──────────────────────────────────────────────────
@@ -578,8 +578,8 @@ export const fittings: Product[] = [
     specs: FALLBACK_SPECS,
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/transition-piece.webp",
-    metaTitle: "Transition Piece Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "Transition Pieces fabricated to customer drawings in SS, Duplex, Inconel, Hastelloy, Titanium. Custom geometry changes. Ductwork, pressure vessels, process piping. Manufacturer and supplier in India. Prayag Steel.",
+    metaTitle: "Transition Piece Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "Transition Pieces fabricated to customer drawings in SS, Duplex, Inconel, Hastelloy, Titanium. Custom geometry changes. Ductwork, pressure vessels, process piping. Manufacturer and supplier in India. Pragyan Steel.",
   },
 
   // ── 22. Fabricated Fittings (Catch-all) ───────────────────────────────────
@@ -603,7 +603,7 @@ export const fittings: Product[] = [
     ],
     materialsTable: FITTINGS_MATERIALS,
     image: "products/fittings/buttweld-fitting-fabricated-fittings.webp",
-    metaTitle: "Fabricated Fittings Manufacturer & Supplier in India | Prayag Steel",
-    metaDescription: "Custom Fabricated Fittings in SS, Duplex, Inconel, Hastelloy, Titanium. Piggable Tees, Spools, Special Fabrications. Drawing-based manufacturing. Manufacturer and supplier in India. Prayag Steel India.",
+    metaTitle: "Fabricated Fittings Manufacturer & Supplier in India | Pragyan Steel",
+    metaDescription: "Custom Fabricated Fittings in SS, Duplex, Inconel, Hastelloy, Titanium. Piggable Tees, Spools, Special Fabrications. Drawing-based manufacturing. Manufacturer and supplier in India. Pragyan Steel India.",
   },
 ];

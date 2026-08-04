@@ -29,7 +29,7 @@ export const IndustriesSection: React.FC = () => {
             className="mb-6"
           />
           <p className="text-gray-500 font-body text-lg max-w-2xl mx-auto">
-            From the depths of the ocean to the vacuum of space, Prayag Steel delivers mission-critical components where failure is not an option.
+            From the depths of the ocean to the vacuum of space, Pragyan Steel delivers mission-critical components where failure is not an option.
           </p>
         </div>
       </div>

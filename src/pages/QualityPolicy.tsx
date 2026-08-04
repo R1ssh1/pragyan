@@ -9,9 +9,9 @@ import { FooterCTA } from "../components/sections/FooterCTA";
 export const QualityPolicy: React.FC = () => (
   <>
     <PageMeta
-      title="Quality Policy | Prayag Steel & Engineering Co."
+      title="Quality Policy | Pragyan Steel & Engineering Co."
       description="ISO 9001:2015 certified. Our quality policy covers continuous improvement, customer satisfaction, and a promise to deliver the right products with the right documents at the right time."
-      canonical="https://www.prayagsteel.in/quality-policy"
+      canonical="https://pragyan-nine.vercel.app/quality-policy"
     />
 
     <main>

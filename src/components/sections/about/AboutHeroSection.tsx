@@ -16,13 +16,13 @@ const slideUp: Variants = {
 export const AboutHeroSection: React.FC = () => (
   <section
     className="relative bg-prayag-black overflow-hidden min-h-[50vh] lg:min-h-[65vh]"
-    aria-label="About Prayag Steel — Our Story"
+    aria-label="About Pragyan Steel — Our Story"
   >
     {/* Background image with dark overlay */}
     <div className="absolute inset-0 z-0">
       <img
         src="/assets/images/about/hero-banner.webp"
-        alt="Prayag Steel manufacturing facility"
+        alt="Pragyan Steel manufacturing facility"
         className="w-full h-full object-cover object-center lg:object-left opacity-70"
         onError={(e) => {
           (e.target as HTMLImageElement).style.display = 'none';

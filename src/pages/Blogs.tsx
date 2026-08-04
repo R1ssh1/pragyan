@@ -30,9 +30,9 @@ export const Blogs: React.FC = () => {
   return (
     <>
       <PageMeta
-        title="Blog — Steel Insights & Industry Knowledge | Prayag Steel & Engineering Co."
+        title="Blog — Steel Insights & Industry Knowledge | Pragyan Steel & Engineering Co."
         description="Expert articles on stainless steel grades, fabrication standards, ASME & ASTM compliance, flanges, pipes, tubes, and the insights that power India's critical infrastructure."
-        canonical="https://www.prayagsteel.in/blogs"
+        canonical="https://pragyan-nine.vercel.app/blogs"
         type="website"
       />
 

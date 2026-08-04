@@ -53,7 +53,7 @@ const fadeIn: Variants = {
 export const HeroSection: React.FC = () => (
   <section
     className="relative min-h-screen flex flex-col bg-prayag-black overflow-hidden overflow-x-hidden"
-    aria-label="Hero — Prayag Steel & Engineering Co."
+    aria-label="Hero — Pragyan Steel & Engineering Co."
   >
     {/* ── Watermark keyword texture ───────────────────────────────── */}
     <div
@@ -107,7 +107,7 @@ export const HeroSection: React.FC = () => (
           >
             <span className="w-2 h-2 rounded-full bg-prayag-red animate-pulse" aria-hidden="true" />
             <span className="text-prayag-red font-body text-[10px] sm:text-xs font-semibold uppercase tracking-[0.22em]">
-              Est. 1994 · Mumbai & Umergaon, India
+              Est. 1994 · Virar, India
             </span>
           </span>
         </motion.div>

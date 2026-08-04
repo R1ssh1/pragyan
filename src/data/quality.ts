@@ -1,5 +1,5 @@
 // ── Quality Policy Data ────────────────────────────────────────────────────────
-// Source: Prayag Steel & Engineering Co. — Product Catalogue (PDF p.2 + product sections)
+// Source: Pragyan Steel & Engineering Co. — Product Catalogue (PDF p.2 + product sections)
 
 export const qualityPolicy = {
   eyebrow: "ISO 9001:2015 Certified",
@@ -27,7 +27,7 @@ export const qualityPolicy = {
   ],
   // Verbatim from fittings section
   philosophy:
-    "At Prayag Steel & Engineering Company, we believe quality is engineered — not inspected. Every fitting that leaves our facility is a reflection of our promise: Precision. Strength. Reliability. Because when it comes to performance, Prayag delivers beyond expectations.",
+    "At Pragyan Steel & Engineering Company, we believe quality is engineered — not inspected. Every fitting that leaves our facility is a reflection of our promise: Precision. Strength. Reliability. Because when it comes to performance, Pragyan delivers beyond expectations.",
   qcNote:
     "All testing is carried out under the supervision of qualified QA/QC personnel as per ISO 9001:2015 and PED requirements.",
 };

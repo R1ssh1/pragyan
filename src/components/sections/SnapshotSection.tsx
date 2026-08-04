@@ -7,7 +7,7 @@ import umergaonFacility from "../../assets/images/about/facility-umergaon.webp";
 import mumbaiOffice from "../../assets/images/about/facility-mumbai.webp";
 
 export const SnapshotSection: React.FC = () => (
-  <section className="bg-off-white py-24 lg:py-36 overflow-x-hidden" aria-label="About Prayag Steel & Engineering">
+  <section className="bg-off-white py-24 lg:py-36 overflow-x-hidden" aria-label="About Pragyan Steel & Engineering">
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-14 lg:gap-24 items-center">
 
@@ -34,15 +34,15 @@ export const SnapshotSection: React.FC = () => (
 
           <div className="space-y-5 mb-8">
             <p className="text-gray-600 font-body leading-relaxed text-[17px]">
-              Founded in 1994, Prayag Steel &amp; Engineering Company has grown from a trading firm
-              in Mumbai into a trusted manufacturer and supplier of high-performance pipes, tubes,
+              Founded in 1994, Pragyan Steel &amp; Engineering Company has grown from a trading firm
+              in Virar into a trusted manufacturer and supplier of high-performance pipes, tubes,
               and fittings for critical industries across India and overseas.
             </p>
             <p className="text-gray-600 font-body leading-relaxed text-[17px]">
               With over three decades of experience, we have built a reputation for quality,
               reliability, and innovation. Our manufacturing excellence is driven by two dedicated
               facilities:{" "}
-              <strong className="text-prayag-black font-semibold">Proficient Tubes Pvt. Ltd.</strong>{" "}
+              <strong className="text-prayag-black font-semibold">Proficient Steel Pvt. Ltd.</strong>{" "}
               (est.&nbsp;2019), specializing in seamless and welded tubes &amp; pipes, and a
               state-of-the-art{" "}
               <strong className="text-prayag-black font-semibold">Fittings Unit</strong>{" "}
@@ -53,8 +53,8 @@ export const SnapshotSection: React.FC = () => (
           {/* Inline quick facts */}
           <dl className="grid grid-cols-2 gap-4 mb-10">
             {[
-              { dt: "Founded", dd: "1994, Mumbai" },
-              { dt: "Facilities", dd: "Umbergaon & Vasai" },
+              { dt: "Founded", dd: "1994, Virar" },
+              { dt: "Facilities", dd: "Shirgaon & Virar" },
               { dt: "Certifications", dd: "ISO 9001:2015, PED" },
               { dt: "Coverage", dd: "India & International" },
             ].map(({ dt, dd }) => (
@@ -99,7 +99,7 @@ export const SnapshotSection: React.FC = () => (
           <div className="relative z-10">
             <img
               src={umergaonFacility}
-              alt="Prayag Steel — Umergaon manufacturing facility"
+              alt="Pragyan Steel — Shirgaon manufacturing facility"
               className="w-full aspect-video object-cover rounded-2xl shadow-xl border border-gray-100"
             />
           </div>
@@ -118,7 +118,7 @@ export const SnapshotSection: React.FC = () => (
           <div className="mt-8 ml-12">
             <img
               src={mumbaiOffice}
-              alt="Mumbai registered office"
+              alt="Virar registered office"
               className="w-full aspect-video object-cover rounded-xl shadow-md border border-gray-100 bg-gray-100"
             />
           </div>

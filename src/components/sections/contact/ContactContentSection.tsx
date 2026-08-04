@@ -63,10 +63,10 @@ export const ContactContentSection: React.FC = () => {
         },
         body: JSON.stringify({
           access_key: "d1391a94-4c33-4682-888c-dbb6c77ae41d",
-          from_name: "Prayag Steel Website Inquiry",
+          from_name: "Pragyan Steel Website Inquiry",
           subject: formData.interest
-            ? `New Inquiry: ${formData.interest.toUpperCase()} - Prayag Steel Website`
-            : "New Website Inquiry - Prayag Steel",
+            ? `New Inquiry: ${formData.interest.toUpperCase()} - Pragyan Steel Website`
+            : "New Website Inquiry - Pragyan Steel",
           ...formData,
         }),
       });
@@ -344,7 +344,7 @@ export const ContactContentSection: React.FC = () => {
             {/* Google Map Box */}
             <div className="bg-white rounded-3xl border border-gray-200 hover:border-prayag-red/40 shadow-xl shadow-gray-200/50 hover:shadow-[0_12px_40px_rgba(227,30,36,0.2)] overflow-hidden h-64 sm:h-72 w-full transition-all duration-500">
               <iframe
-                title="Prayag Steel Location"
+                title="Pragyan Steel Location"
                 src="https://maps.google.com/maps?q=Kumbharwada,Mumbai&t=&z=14&ie=UTF8&iwloc=&output=embed"
                 width="100%"
                 height="100%"

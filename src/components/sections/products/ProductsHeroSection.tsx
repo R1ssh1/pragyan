@@ -24,7 +24,7 @@ const fadeIn: Variants = {
 export const ProductsHeroSection: React.FC = () => (
   <section
     className="relative min-h-[60vh] flex flex-col bg-prayag-black overflow-hidden overflow-x-hidden"
-    aria-label="Products — Prayag Steel & Engineering Co."
+    aria-label="Products — Pragyan Steel & Engineering Co."
   >
     {/* ── Watermark keyword texture ───────────────────────────────── */}
     <div
@@ -145,7 +145,7 @@ export const ProductsHeroSection: React.FC = () => (
           <div className="relative w-full max-w-[320px] xl:max-w-[380px] ml-auto aspect-[3/4] rounded-2xl overflow-hidden border border-white/10 shadow-2xl shadow-prayag-red/20 group">
             <img
               src="/assets/images/pages/products-hero.webp"
-              alt="Prayag Steel Products"
+              alt="Pragyan Steel Products"
               className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
               onError={(e) => {
                 (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1587845214041-f7daee97a59a?q=80&w=1000&auto=format&fit=crop';

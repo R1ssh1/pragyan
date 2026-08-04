@@ -219,7 +219,7 @@ export const flanges: Product[] = [
     ],
     materialsTable: FLANGES_MATERIALS,
     image: "products/flanges/weld-neck-flange.webp",
-    metaTitle: "Weld Neck Flange Manufacturer & Supplier in India | Prayag Steel",
+    metaTitle: "Weld Neck Flange Manufacturer & Supplier in India | Pragyan Steel",
     metaDescription:
       "Forged Weld Neck Flanges in SS, Duplex, Inconel, Hastelloy & Titanium. ASME B16.5, Class 150#–2500#. Long tapered hub for superior fatigue resistance and high-pressure, high-temperature cyclic service. Manufacturer in India.",
   },
@@ -279,7 +279,7 @@ export const flanges: Product[] = [
     ],
     materialsTable: FLANGES_MATERIALS,
     image: "products/flanges/slip-on-flange.webp",
-    metaTitle: "Slip-On Flange Manufacturer & Supplier in India | Prayag Steel",
+    metaTitle: "Slip-On Flange Manufacturer & Supplier in India | Pragyan Steel",
     metaDescription:
       "Forged Stainless Steel Slip-On Flanges — ASTM A182, ASME B16.5, Class 150#–2500#. SS, Duplex, Inconel, Hastelloy & Titanium. Easy alignment, double fillet weld, cost-effective for low to medium pressure service. Manufacturer in India.",
   },
@@ -306,7 +306,7 @@ export const flanges: Product[] = [
     ],
     materialsTable: FLANGES_MATERIALS,
     image: "products/flanges/blind-flange.webp",
-    metaTitle: "Blind Flange Manufacturer & Supplier in India | Prayag Steel",
+    metaTitle: "Blind Flange Manufacturer & Supplier in India | Pragyan Steel",
     metaDescription:
       "Forged Blind Flanges in SS, Duplex, Inconel, Hastelloy & Titanium. Solid disc construction for positive pipeline isolation and pressure containment. ASME B16.5 / B16.47, Class 150#–2500#. Manufacturer and supplier in India.",
   },
@@ -353,7 +353,7 @@ export const flanges: Product[] = [
     ],
     materialsTable: FLANGES_MATERIALS,
     image: "products/flanges/socket-weld-flange.webp",
-    metaTitle: "Socket Weld Flange Manufacturer & Supplier in India | Prayag Steel",
+    metaTitle: "Socket Weld Flange Manufacturer & Supplier in India | Pragyan Steel",
     metaDescription:
       "Forged Socket Weld Flanges in SS, Duplex, Inconel, Hastelloy & Titanium. 1/2\"–24\" NPS, ASME B16.5, Class 150#–2500#. Precision machined socket bore with external fillet weld for small bore high-pressure piping. Manufacturer in India.",
   },
@@ -396,7 +396,7 @@ export const flanges: Product[] = [
     ],
     materialsTable: FLANGES_MATERIALS,
     image: "products/flanges/threaded-flange.webp",
-    metaTitle: "Threaded Flange Manufacturer & Supplier in India | Prayag Steel",
+    metaTitle: "Threaded Flange Manufacturer & Supplier in India | Pragyan Steel",
     metaDescription:
       "Forged Threaded Flanges in SS, Duplex, Inconel, Hastelloy & Titanium. NPT, BSPP & BSPT threads. ASME B16.5, Class 150#–2500#. No-weld screwed connection — ideal for hazardous environments where hot work is restricted. Manufacturer in India.",
   },
@@ -429,7 +429,7 @@ export const flanges: Product[] = [
     ],
     materialsTable: FLANGES_MATERIALS,
     image: "products/flanges/lap-joint-flange.webp",
-    metaTitle: "Lap Joint Flange Manufacturer & Supplier in India | Prayag Steel",
+    metaTitle: "Lap Joint Flange Manufacturer & Supplier in India | Pragyan Steel",
     metaDescription:
       "Forged Lap Joint Flanges in SS, Duplex, Inconel, Hastelloy & Titanium. Rotating backing flange with free bolt alignment — ideal for frequent-dismantle systems. Used with Lap Joint Stub Ends. ASME B16.5 / B16.47. Manufacturer in India.",
   },
@@ -460,7 +460,7 @@ export const flanges: Product[] = [
     ],
     materialsTable: FLANGES_MATERIALS,
     image: "products/flanges/orifice-flange.webp",
-    metaTitle: "Orifice Flange Manufacturer & Supplier in India | Prayag Steel",
+    metaTitle: "Orifice Flange Manufacturer & Supplier in India | Pragyan Steel",
     metaDescription:
       "Forged Orifice Flanges in SS, Duplex, Inconel, Hastelloy & Titanium. Matched pairs with 1/2\" or 1\" NPT pressure tappings for differential pressure flow measurement. Compatible with orifice plates, flow nozzles & venturi meters. ASME B16.5. Manufacturer in India.",
   },
@@ -517,7 +517,7 @@ export const flanges: Product[] = [
     ],
     materialsTable: FLANGES_MATERIALS,
     image: "products/flanges/spectacle-blind.webp",
-    metaTitle: "Spectacle Blind Manufacturer & Supplier in India | Prayag Steel",
+    metaTitle: "Spectacle Blind Manufacturer & Supplier in India | Pragyan Steel",
     metaDescription:
       "Spectacle Blinds in SS, Duplex, Inconel, Hastelloy & Titanium. Figure-eight design — blind and spacer connected by web. ASME B16.48, Class 150#–2500#. Positive pipeline isolation for maintenance and shutdown. Manufacturer in India.",
   },
@@ -544,7 +544,7 @@ export const flanges: Product[] = [
     ],
     materialsTable: FLANGES_MATERIALS,
     image: "products/flanges/reducing-flange.webp",
-    metaTitle: "Reducing Flange Manufacturer & Supplier in India | Prayag Steel",
+    metaTitle: "Reducing Flange Manufacturer & Supplier in India | Pragyan Steel",
     metaDescription:
       "Forged Reducing Flanges in SS, Duplex, Inconel, Hastelloy & Titanium. Standard OD with concentric reduced bore — combines reducer and flange function in a single component. ASME B16.5 / B16.47, Class 150#–2500#. Manufacturer in India.",
   },
@@ -615,7 +615,7 @@ export const flanges: Product[] = [
       {
         question: "What pressure classes and size ranges are available for RTJ Flanges?",
         answer:
-          "Prayag Steel manufactures RTJ Flanges across standard ASME pressure classes from Class 150# through Class 2500#, with Class 600#, 900#, 1500#, and 2500# being the most frequently demanded for high-pressure service. Size ranges cover ½\" to 24\" NPS under ASME B16.5 and 26\" to 60\" NPS under ASME B16.47 Series A and B.",
+          "Pragyan Steel manufactures RTJ Flanges across standard ASME pressure classes from Class 150# through Class 2500#, with Class 600#, 900#, 1500#, and 2500# being the most frequently demanded for high-pressure service. Size ranges cover ½\" to 24\" NPS under ASME B16.5 and 26\" to 60\" NPS under ASME B16.47 Series A and B.",
       },
       {
         question: "What is the difference between a Raised Face (RF) and a Ring Type Joint (RTJ) Flange?",
@@ -644,7 +644,7 @@ export const flanges: Product[] = [
       },
     ],
     image: "products/flanges/ring-type-joint-rtj-flange.webp",
-    metaTitle: "Ring Type Joint (RTJ) Flange Manufacturer & Supplier in India | Prayag Steel",
+    metaTitle: "Ring Type Joint (RTJ) Flange Manufacturer & Supplier in India | Pragyan Steel",
     metaDescription:
       "Forged RTJ Flanges in SS, Duplex, Inconel, Hastelloy & Titanium. Precision-machined ring groove for oval or octagonal metallic ring gaskets. ASME B16.5 / B16.47, Class 150#–2500#. Weld Neck, Blind & Custom configurations. Manufacturer in India.",
   },
@@ -678,7 +678,7 @@ export const flanges: Product[] = [
     ],
     materialsTable: FLANGES_MATERIALS,
     image: "products/flanges/male-female-flange.webp",
-    metaTitle: "Male-Female Flange Manufacturer & Supplier in India | Prayag Steel",
+    metaTitle: "Male-Female Flange Manufacturer & Supplier in India | Pragyan Steel",
     metaDescription:
       "Forged Male-Female Flanges in SS, Duplex, Inconel, Hastelloy & Titanium. Precision machined raised and recessed faces — matched pairs with fully confined gasket for high-pressure steam, cryogenic & petrochemical service. ASME B16.5 / B16.47. Manufacturer in India.",
   },
@@ -713,7 +713,7 @@ export const flanges: Product[] = [
     ],
     materialsTable: FLANGES_MATERIALS,
     image: "products/flanges/tongue-groove-flange.webp",
-    metaTitle: "Tongue & Groove Flange Manufacturer & Supplier in India | Prayag Steel",
+    metaTitle: "Tongue & Groove Flange Manufacturer & Supplier in India | Pragyan Steel",
     metaDescription:
       "Forged Tongue & Groove Flanges in SS, Duplex, Inconel, Hastelloy & Titanium. Precision matched pairs — tongue and groove design for full gasket confinement in volatile, hazardous & high-pressure service. ASME B16.5 / B16.47, Class 150#–2500#. Manufacturer in India.",
   },

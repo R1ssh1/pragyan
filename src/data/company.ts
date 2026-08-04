@@ -4,58 +4,58 @@
 // ─────────────────────────────────────────────────────────────────────────────
 
 export const companyInfo = {
-  name: "Prayag Steel & Engineering Co.",
+  name: "Pragyan Steel & Engineering Co.",
   tagline: "Forging trust, strength, and precision since 1994.",
   founded: 1994,
-  website: "www.prayagsteel.in",
-  email: "jayesh@prayagsteel.in",
-  phone: "+91-7977607041",
+  website: "www.pragyansteel.com",
+  email: "aaryakhaireavadhoot@gmail.com",
+  phone: "+91 9561419177",
   registeredOffice: {
     label: "Registered Office",
-    address: "67/26, 3rd Kumbharwada",
-    street: "Dr. M. G. Mahimtura Marg",
-    city: "Mumbai",
+    address: "28., Bhaskar Commercial Complex",
+    street: "Mayekar Wadi",
+    city: "Virar",
     state: "Maharashtra",
-    pincode: "400 004",
+    pincode: "401303",
     country: "India",
-    full: "67/26, 3rd Kumbharwada, Dr. M. G. Mahimtura Marg, Mumbai - 400 004",
+    full: "28., Bhaskar Commercial Complex, Mayekar Wadi, Virar, Palghar-401303, Maharashtra, India",
   },
   factory: {
     label: "Manufacturing Facility",
-    address: "C1B/287/3, GIDC Road",
-    area: "Umergaon, Valsad",
-    state: "Gujarat",
-    pincode: "396171",
+    address: "Shirgaon, Veer Sawarkar Road",
+    area: "Chandansar, Virar",
+    state: "Maharashtra",
+    pincode: "401303",
     country: "India",
-    full: "C1B/287/3, GIDC Road, Umergaon, Valsad, Gujarat - 396171",
+    full: "Shirgaon, Veer Sawarkar Road, Chandansar, Virar, Palghar-401303, Maharashtra, India",
   },
 };
 
 // ── Director's Desk ───────────────────────────────────────────────────────────
 export const directorMessage = {
   title: "Director's Desk",
-  body: `In 1994, my father, Shri P. J. Patel, began Prayag Steel & Engineering Company from a small office in Mumbai. With nothing but determination, integrity, and the courage to dream, he built relationships with some of India's most prestigious institutions — BARC, ISRO, IGCAR, NFC, NPCIL. His vision and commitment laid the foundation of a company rooted in trust and strength.
+  body: `In 1994, my father, Pandurang Khaire, began Pragyan Steel & Engineering Company from a small office in Virar. With nothing but determination, integrity, and the courage to dream, he built relationships with some of India's most prestigious institutions — BARC, ISRO, IGCAR, NFC, NPCIL. His vision and commitment laid the foundation of a company rooted in trust and strength.
 
 As the second generation, I feel a deep sense of pride and gratitude. Pride in the path he created, and gratitude for the trust our clients continue to place in us. Carrying forward his legacy is both an honor and a responsibility — one that inspires me every single day.
 
-From a modest trading firm, we have grown into a manufacturing group with facilities in Umbergaon and Vasai. This growth reflects more than capacity — it reflects a generational shift, a renewed vision, and our commitment to building for the future.
+From a modest trading firm, we have grown into a manufacturing group with facilities in Shirgaon. This growth reflects more than capacity — it reflects a generational shift, a renewed vision, and our commitment to building for the future.
 
 But our journey does not stop here. With strong foundations in pipes, tubes, and fittings, we are also preparing to diversify into equipment manufacturing — a step that will transform us from a trusted supplier into a complete solutions partner for industries that demand reliability at every level.
 
 For us, steel is not just business — it is our identity, our promise, and our strength. Every product we create carries a piece of our family's story, our team's dedication, and our client's trust.
 
 As we look ahead, I invite you to join us on this journey of growth and innovation. Together, we can build partnerships that are as strong and enduring as the steel we shape.`,
-  signoff: "STEEL. STRENGTH. PRAYAG.",
-  name: "Jayesh Patel",
+  signoff: "STEEL. STRENGTH. PRAGYAN.",
+  name: "Avadhoot Khaire",
   designation: "Director",
 };
 
 // ── About body ────────────────────────────────────────────────────────────────
 export const aboutBody = {
-  heading: "About Prayag Steel & Engineering Co.",
-  paragraph: `Founded in 1994, Prayag Steel & Engineering Company has grown from a trading firm in Mumbai into a trusted manufacturer and supplier of high-performance pipes, tubes, and fittings for critical industries across India and overseas. With over three decades of experience, we have built a reputation for quality, reliability, and innovation.
+  heading: "About Pragyan Steel & Engineering Co.",
+  paragraph: `Founded in 1994, Pragyan Steel & Engineering Company has grown from a trading firm in Virar into a trusted manufacturer and supplier of high-performance pipes, tubes, and fittings for critical industries across India and overseas. With over three decades of experience, we have built a reputation for quality, reliability, and innovation.
 
-Our manufacturing excellence is driven by two dedicated facilities: Proficient Tubes Pvt. Ltd. (est. 2019), specializing in seamless and welded tubes & pipes, and a state-of-the-art Fittings Unit producing a complete range of butt-weld, forged, and customized fittings.`,
+Our manufacturing excellence is driven by two dedicated facilities: Proficient Steel Pvt. Ltd. (est. 2019), specializing in seamless and welded tubes & pipes, and a state-of-the-art Fittings Unit producing a complete range of butt-weld, forged, and customized fittings.`,
 };
 
 // ── Vision & Mission ─────────────────────────────────────────────────────────
@@ -79,7 +79,7 @@ export const coreValues = [
   {
     id: "strength",
     title: "Strength",
-    description: "We stand firm in our promise: STEEL. STRENGTH. PRAYAG. Every product we make is built to perform with durability and reliability.",
+    description: "We stand firm in our promise: STEEL. STRENGTH. PRAGYAN. Every product we make is built to perform with durability and reliability.",
   },
   {
     id: "integrity",
@@ -115,7 +115,7 @@ export const journeyTimeline = [
     icon: "🏭",
     title: "The Beginning",
     description: [
-      "A small trading office in Mumbai, a big dream, and a simple belief: quality is remembered long after price is forgotten. Prayag Steel & Engineering Company was born with a commitment to supply materials that clients could rely on with closed eyes."
+      "A small trading office in Virar, a big dream, and a simple belief: quality is remembered long after price is forgotten. Pragyan Steel & Engineering Company was born with a commitment to supply materials that clients could rely on with closed eyes."
     ],
   },
   {
@@ -131,7 +131,7 @@ export const journeyTimeline = [
     icon: "🔩",
     title: "Fittings Unit Established",
     description: [
-      "As projects demanded complete piping solutions, we invested in a state-of-the-art fittings facility. From elbows to tees, reducers to caps, our fittings began powering chemical plants, refineries, and nuclear projects. This step made Prayag not just a supplier, but a partner in progress."
+      "As projects demanded complete piping solutions, we invested in a state-of-the-art fittings facility. From elbows to tees, reducers to caps, our fittings began powering chemical plants, refineries, and nuclear projects. This step made Pragyan not just a supplier, but a partner in progress."
     ],
   },
   {
@@ -147,11 +147,11 @@ export const journeyTimeline = [
     icon: "🚀",
     title: "Pipes & Tubes Manufacturing Begins",
     description: [
-      "With the implementation of BIS regulations, India witnessed a much-needed check on non-standard Chinese imports. That very moment, Prayag seized the opportunity and entered pipe & tube manufacturing with Proficient Tubes Pvt. Ltd.",
-      "Equipped with pilger machines, draw benches, piercing machines, pickling & passivation and electric furnaces, this facility began producing high precision seamless in stainless steel and exotic alloys like Monel, Inconel, and Hastelloy. This marked the beginning of Prayag's transformation into a complete piping solution provider.",
-      "The turning point came with the introduction of BIS regulations, which restricted non-standard Chinese pipes from entering India. The very day that opportunity opened, Prayag seized it — and without wasting a moment, we began building our PIPES & TUBES manufacturing unit at Umbergaon",
+      "With the implementation of BIS regulations, India witnessed a much-needed check on non-standard Chinese imports. That very moment, Pragyan seized the opportunity and entered pipe & tube manufacturing with Proficient Steel Pvt. Ltd.",
+      "Equipped with pilger machines, draw benches, piercing machines, pickling & passivation and electric furnaces, this facility began producing high precision seamless in stainless steel and exotic alloys like Monel, Inconel, and Hastelloy. This marked the beginning of Pragyan's transformation into a complete piping solution provider.",
+      "The turning point came with the introduction of BIS regulations, which restricted non-standard Chinese pipes from entering India. The very day that opportunity opened, Pragyan seized it — and without wasting a moment, we began building our PIPES & TUBES manufacturing unit at Shirgaon",
       "This expansion is not just about space — it is about vision and preparedness.",
-      "This milestone reflects what Prayag has always stood for: not chasing growth, but building trust step by step, ton by ton, year by year."
+      "This milestone reflects what Pragyan has always stood for: not chasing growth, but building trust step by step, ton by ton, year by year."
     ],
   },
   {
@@ -159,7 +159,7 @@ export const journeyTimeline = [
     icon: "🏗️",
     title: "Expansion with 98,000 sq. ft. Facility",
     description: [
-      "To keep pace with the growing demand and strengthen our long-term vision, Prayag acquired an additional 98,000 sq. ft. of land at Umbergaon for a dedicated pipes manufacturing unit.",
+      "To keep pace with the growing demand and strengthen our long-term vision, Pragyan acquired an additional 98,000 sq. ft. of land at Shirgaon for a dedicated pipes manufacturing unit.",
       "This upcoming facility will be a benchmark in pipe manufacturing — equipped with the latest technology, advanced testing labs, and enhanced capacity."
     ],
   },
@@ -171,14 +171,14 @@ export const legacyTimeline = [
     year: "1994",
     title: "The Foundation",
     description:
-      "Prayag Steel & Engineering Company begins its journey in Mumbai, with a vision to strengthen India's nuclear and space backbone. Founded by Shri P. J. Patel with nothing but determination, integrity, and the courage to dream.",
+      "Pragyan Steel & Engineering Company begins its journey in Virar, with a vision to strengthen India's nuclear and space backbone. Founded by Pandurang Khaire with nothing but determination, integrity, and the courage to dream.",
     icon: "🏭",
   },
   {
     year: "1998",
     title: "Pokhran-II",
     description:
-      "When India tested its nuclear capabilities at Pokhran, Prayag's supplied steels were already empowering BARC's nuclear support infrastructure. Behind the scenes, our steel became part of India's boldest moment.",
+      "When India tested its nuclear capabilities at Pokhran, Pragyan's supplied steels were already empowering BARC's nuclear support infrastructure. Behind the scenes, our steel became part of India's boldest moment.",
     icon: "⚛️",
   },
   {
@@ -192,14 +192,14 @@ export const legacyTimeline = [
     year: "2006",
     title: "KALI Project",
     description:
-      "Through BARC & DRDO, Prayag contributed to the KALI (Kilo Ampere Linear Injector) program — supplying steels capable of withstanding extreme energy applications.",
+      "Through BARC & DRDO, Pragyan contributed to the KALI (Kilo Ampere Linear Injector) program — supplying steels capable of withstanding extreme energy applications.",
     icon: "⚡",
   },
   {
     year: "2008",
     title: "Chandrayaan-1",
     description:
-      "India's first mission to the Moon carried components made with Prayag's material for the rocket top knock system. Our steel left Earth for the first time.",
+      "India's first mission to the Moon carried components made with Pragyan's material for the rocket top knock system. Our steel left Earth for the first time.",
     icon: "🌕",
   },
   {
@@ -220,28 +220,28 @@ export const legacyTimeline = [
     year: "2016",
     title: "Chandrayaan-2",
     description:
-      "In partnership with MTAR Technologies, Prayag's tubes and fittings contributed to India's second lunar mission — Chandrayaan-2.",
+      "In partnership with MTAR Technologies, Pragyan's tubes and fittings contributed to India's second lunar mission — Chandrayaan-2.",
     icon: "🛸",
   },
   {
     year: "2019",
-    title: "Gaganyaan & Proficient Tubes",
+    title: "Gaganyaan & Proficient Steel",
     description:
-      "Prayag alloys supplied for cryogenic rocket engines, testing platforms, and space infrastructure — supporting India's first manned mission initiative. Harish Patel also founded Proficient Tubes Pvt. Ltd., venturing into pipes manufacturing.",
+      "Pragyan alloys supplied for cryogenic rocket engines, testing platforms, and space infrastructure — supporting India's first manned mission initiative. Avadhoot Khaire also founded Proficient Steel Pvt. Ltd., venturing into pipes manufacturing.",
     icon: "👨‍🚀",
   },
   {
     year: "2023",
     title: "Chandrayaan-3 Success",
     description:
-      "As India became the first nation to land near the lunar south pole, Prayag's steel once again proved its place in launch systems and ground support infrastructure.",
+      "As India became the first nation to land near the lunar south pole, Pragyan's steel once again proved its place in launch systems and ground support infrastructure.",
     icon: "🏆",
   },
   {
     year: "2024",
     title: "Fusion & 98,000 Sq.Ft. Expansion",
     description:
-      "Partnering with BARC, DRDO & ISRO on fusion research, propulsion technologies, and next-gen nuclear innovation. Prayag also acquired an additional 98,000 sq.ft. at Umbergaon for a dedicated pipes manufacturing unit — equipped with the latest technology and advanced testing labs.",
+      "Partnering with BARC, DRDO & ISRO on fusion research, propulsion technologies, and next-gen nuclear innovation. Pragyan also acquired an additional 98,000 sq.ft. at Shirgaon for a dedicated pipes manufacturing unit — equipped with the latest technology and advanced testing labs.",
     icon: "🌟",
   },
 ];
@@ -250,45 +250,31 @@ export const legacyTimeline = [
 // ── Leadership ────────────────────────────────────────────────────────────────
 export const leadership = [
   {
-    id: "pj-patel",
-    name: "Shri P. J. Patel",
+    id: "pandurang-khaire",
+    name: "Pandurang Khaire",
     title: "Founder",
-    tenure: "1994 – 2013",
+    tenure: "1994 – Present",
     role: "The Founder",
     experience:
-      "Built Prayag Steel from a single-room office in Mumbai into a respected supplier to India's most prestigious institutions. His relationships with BARC, ISRO, IGCAR, NFC, and NPCIL formed the bedrock of the company's reputation.",
+      "Built Pragyan Steel from a single-room office in Virar into a respected supplier to India's most prestigious institutions. His relationships with BARC, ISRO, IGCAR, NFC, and NPCIL formed the bedrock of the company's reputation.",
     philosophy:
-      "Integrity first, always. A handshake with Prayag is a guarantee of quality.",
+      "Integrity first, always. A handshake with Pragyan is a guarantee of quality.",
     legacy:
       "Laid the foundation of a company rooted in trust, courage, and the belief that Indian manufacturing could meet the world's most demanding specifications.",
-    image: "about/pj-patel-portrait.webp",
+    image: "about/pj-patel-portrait.webp", // Kept original image paths for now
   },
   {
-    id: "harish-patel",
-    name: "Harish Patel",
-    title: "Torchbearer",
-    tenure: "2013 – 2023",
-    role: "The Torchbearer",
-    experience:
-      "Steered Prayag through a decade of significant growth, expanding manufacturing capabilities, adding exotic alloy grades, and deepening relationships with defence and nuclear clients.",
-    philosophy:
-      "Growth without quality is noise. Every new capability we add must earn its place.",
-    legacy:
-      "Established the in-house forging unit, expanded into Duplex and Super Duplex grades, and set the stage for the Proficient Tubes venture.",
-    image: "about/harish-patel-portrait.webp",
-  },
-  {
-    id: "jayesh-patel",
-    name: "Jayesh Patel",
-    title: "Director",
-    tenure: "2023 – Present",
+    id: "avadhoot-khaire",
+    name: "Avadhoot Khaire",
+    title: "Torchbearer & Director",
+    tenure: "Present",
     role: "Visionary of Today",
     experience:
-      "Second-generation leader driving Prayag's transformation from a trusted supplier into a complete solutions partner — with expansion into equipment manufacturing and a renewed focus on innovation and global reach.",
+      "Second-generation leader driving Pragyan's transformation from a trusted supplier into a complete solutions partner — with expansion into equipment manufacturing and a renewed focus on innovation and global reach.",
     philosophy:
       "Steel is our identity. Every product we create carries a piece of our family's story and our client's trust.",
     goal:
-      "To make Prayag Steel a globally recognised name in precision engineering — not just as a supplier but as a manufacturing partner of choice for the world's most critical industries.",
+      "To make Pragyan Steel a globally recognised name in precision engineering — not just as a supplier but as a manufacturing partner of choice for the world's most critical industries.",
     image: "about/jayesh-patel-portrait.webp",
   },
 ];
@@ -395,7 +381,7 @@ export const divisions = [
     name: "Tubes",
     tagline: "Precision in Every Inch.",
     description:
-      "Manufactured by Proficient Tubes Pvt. Ltd. — precision seamless and welded tubes from 6mm to 219mm OD, wall thickness 0.5mm to 12mm, in all major stainless, nickel, and exotic alloy grades. Up to 12m lengths.",
+      "Manufactured by Proficient Steel Pvt. Ltd. — precision seamless and welded tubes from 6mm to 219mm OD, wall thickness 0.5mm to 12mm, in all major stainless, nickel, and exotic alloy grades. Up to 12m lengths.",
     image: "divisions/tubes-hero.webp",
     slug: "tubes",
     highlights: [

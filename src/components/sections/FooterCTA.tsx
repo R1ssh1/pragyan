@@ -10,7 +10,7 @@ export const FooterCTA: React.FC = () => {
       {/* Background Watermark */}
       <div className="absolute inset-0 flex items-center justify-center opacity-10 pointer-events-none" aria-hidden="true">
         <span className="font-heading font-black text-[20vw] leading-none whitespace-nowrap text-white">
-          PRAYAG
+          PRAGYAN
         </span>
       </div>
 
@@ -38,7 +38,7 @@ export const FooterCTA: React.FC = () => {
             </Link>
 
             <a
-              href="mailto:prayagsteelindia@yahoo.co.in"
+              href="mailto:aaryakhaireavadhoot@gmail.com"
               className="inline-flex items-center gap-3 px-8 py-4 bg-black/20 text-white font-body font-semibold uppercase tracking-wider text-[15px] rounded-xl border border-white/20 hover:bg-black/40 transition-colors"
             >
               <Mail className="w-4 h-4" />

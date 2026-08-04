@@ -78,7 +78,7 @@ export const GlobalReachSection: React.FC = () => {
           >
             <img 
               src="/assets/images/pages/footprint.webp" 
-              alt="Prayag Steel Global Footprint" 
+              alt="Pragyan Steel Global Footprint" 
               className="w-full h-auto object-cover"
               onError={(e) => {
                 (e.target as HTMLImageElement).style.display = 'none';

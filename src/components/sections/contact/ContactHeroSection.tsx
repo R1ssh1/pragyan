@@ -13,14 +13,14 @@ const slideUp: Variants = {
 export const ContactHeroSection: React.FC = () => (
   <section
     className="relative bg-prayag-black overflow-hidden"
-    aria-label="Contact Us — Prayag Steel"
+    aria-label="Contact Us — Pragyan Steel"
     style={{ minHeight: "50vh" }}
   >
     {/* Background image with dark overlay */}
     <div className="absolute inset-0 z-0">
       <img
         src="/assets/images/pages/contact-hero.webp"
-        alt="Prayag Steel Contact"
+        alt="Pragyan Steel Contact"
         className="w-full h-full object-cover opacity-60 object-center"
       />
       <div className="absolute inset-0 bg-gradient-to-r from-prayag-black via-prayag-black/80 to-transparent" />

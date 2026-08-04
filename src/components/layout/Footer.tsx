@@ -26,7 +26,7 @@ export const Footer: React.FC = () => {
             <div className="mb-6">
               <img
                 src="/logo-black.webp"
-                alt="Prayag Steel & Engineering Co. Logo"
+                alt="Pragyan Steel & Engineering Co. Logo"
                 className="h-12 sm:h-14 w-auto object-contain"
               />
             </div>
@@ -155,11 +155,11 @@ export const Footer: React.FC = () => {
         {/* Divider + bottom bar */}
         <div className="mt-14 pt-8 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="text-gray-500 text-xs font-body text-center sm:text-left">
-            <p>© {currentYear} Prayag Steel &amp; Engineering Co. All rights reserved.</p>
-            <p className="mt-1">Designed &amp; Developed at SunMarg</p>
+            <p>© {currentYear} Pragyan Steel &amp; Engineering Co. All rights reserved.</p>
+            <p className="mt-1">Designed &amp; Developed at <strong>ÆNGINE</strong></p>
           </div>
           <p className="text-gray-600  font-body font-semibold uppercase tracking-widest">
-            Steel. Strength. Prayag.
+            Steel. Strength. Pragyan.
           </p>
         </div>
       </div>

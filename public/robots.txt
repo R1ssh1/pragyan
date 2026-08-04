@@ -1,7 +1,12 @@
 User-agent: *
 Allow: /
+Disallow: /studio/
 
-# Block AI crawlers from indexing product images (placeholder images)
-Disallow: /src/assets/images/
+# Block AI training crawlers
+User-agent: GPTBot
+Disallow: /
 
-Sitemap: https://www.prayagsteel.in/sitemap.xml
+User-agent: CCBot
+Disallow: /
+
+Sitemap: https://pragyan-nine.vercel.app/sitemap.xml

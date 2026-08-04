@@ -3,7 +3,7 @@ import { Helmet } from "react-helmet-async";
 import type { Product } from "../data/products/types";
 import { companyInfo } from "../data/company";
 
-const SITE_URL = "https://www.prayagsteel.in";
+const SITE_URL = "https://pragyan-nine.vercel.app";
 
 // ── Organization Schema ───────────────────────────────────────────────────────
 
@@ -16,7 +16,7 @@ export const OrganizationSchema: React.FC = () => {
     "@type": "Organization",
     name: companyInfo.name,
     url: `https://${companyInfo.website}`,
-    logo: `${SITE_URL}/logo/prayag-logo.webp`,
+    logo: `${SITE_URL}/logo/Pragyan-logo.webp`,
     foundingDate: String(companyInfo.founded),
     description:
       "Manufacturer and supplier of high-performance pipes, tubes, fittings, and flanges for nuclear, defence, aerospace, petrochemical, and pharmaceutical industries. Est. 1994.",
@@ -44,6 +44,59 @@ export const OrganizationSchema: React.FC = () => {
       email: companyInfo.email,
       contactType: "customer service",
       availableLanguage: ["English", "Hindi"],
+    },
+    sameAs: [`https://${companyInfo.website}`],
+  };
+
+  return (
+    <Helmet>
+      <script type="application/ld+json">{JSON.stringify(schema)}</script>
+    </Helmet>
+  );
+};
+
+// ── LocalBusiness Schema ───────────────────────────────────────────────────
+
+/**
+ * LocalBusinessSchema — targets local search / Google Maps / Knowledge Panel.
+ * Include on the Home and Contact pages via App.tsx or individual page files.
+ */
+export const LocalBusinessSchema: React.FC = () => {
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "ManufacturingBusiness",
+    name: companyInfo.name,
+    url: SITE_URL,
+    logo: `${SITE_URL}/logo-white.webp`,
+    image: `${SITE_URL}/logo-white.webp`,
+    description:
+      "Manufacturer and supplier of stainless steel pipes, tubes, fittings, and flanges for nuclear, defence, aerospace, and petrochemical industries. ISO 9001:2015 certified. Est. 1994.",
+    foundingDate: String(companyInfo.founded),
+    telephone: companyInfo.phone,
+    email: companyInfo.email,
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: companyInfo.registeredOffice.address,
+      addressLocality: companyInfo.registeredOffice.city,
+      addressRegion: companyInfo.registeredOffice.state,
+      postalCode: companyInfo.registeredOffice.pincode,
+      addressCountry: "IN",
+    },
+    geo: {
+      "@type": "GeoCoordinates",
+      latitude: 19.4589,
+      longitude: 72.8106,
+    },
+    openingHoursSpecification: {
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+      opens: "09:00",
+      closes: "18:00",
+    },
+    hasMap: "https://maps.google.com/?q=Virar,Palghar,Maharashtra",
+    areaServed: {
+      "@type": "Country",
+      name: "India",
     },
     sameAs: [`https://${companyInfo.website}`],
   };

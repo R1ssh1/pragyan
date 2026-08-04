@@ -1,0 +1,16 @@
+{
+  "name": "Pragyan Steel & Engineering Co.",
+  "short_name": "Pragyan Steel",
+  "description": "Manufacturer and supplier of high-performance stainless steel pipes, tubes, fittings, and flanges. Est. 1994.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#E31E24",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}

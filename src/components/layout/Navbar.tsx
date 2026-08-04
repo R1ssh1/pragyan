@@ -21,8 +21,8 @@ const navItems: NavItem[] = [
     to: "/about",
     children: [
       { label: "Our Journey", to: "/about#journey" },
-      { label: "The Steel Legacy of Prayag", to: "/about#legacy" },
-      { label: "Leadership at Prayag", to: "/about#leadership" },
+      { label: "The Steel Legacy of Pragyan", to: "/about#legacy" },
+      { label: "Leadership at Pragyan", to: "/about#leadership" },
     ]
   },
   { label: "QUALITY POLICY", to: "/quality-policy" },
@@ -113,11 +113,11 @@ export const Navbar: React.FC = () => {
               to="/"
               onClick={() => handleNavClick("/")}
               className="flex items-center gap-3 flex-shrink-0"
-              aria-label="Prayag Steel & Engineering Co. — Home"
+              aria-label="Pragyan Steel & Engineering Co. — Home"
             >
               <img
                 src="/logo-white.webp"
-                alt="Prayag Steel & Engineering Co. Logo"
+                alt="Pragyan Steel & Engineering Co. Logo"
                 className="h-10 sm:h-12 w-auto object-contain"
               />
             </Link>
@@ -329,7 +329,7 @@ export const Navbar: React.FC = () => {
                 <Link to="/" className="flex items-center gap-2" onClick={() => { setMobileOpen(false); handleNavClick("/"); }}>
                   <img
                     src="/logo-black.webp"
-                    alt="Prayag Steel Logo"
+                    alt="Pragyan Steel Logo"
                     className="h-8 w-auto object-contain"
                   />
                 </Link>

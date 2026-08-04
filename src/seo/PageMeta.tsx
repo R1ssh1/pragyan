@@ -12,8 +12,8 @@ interface PageMetaProps {
   type?: string;
 }
 
-const SITE_NAME = "Prayag Steel & Engineering Co.";
-const SITE_URL = "https://www.prayagsteel.in";
+const SITE_NAME = "Pragyan Steel & Engineering Co.";
+const SITE_URL = "https://pragyan-nine.vercel.app";
 const DEFAULT_OG_IMAGE = `${SITE_URL}/og-default.jpg`;
 
 /**
@@ -35,6 +35,16 @@ export const PageMeta: React.FC<PageMetaProps> = ({
       <title>{fullTitle}</title>
       <meta name="description" content={description} />
       <link rel="canonical" href={canonicalUrl} />
+
+      {/* PWA + Theme */}
+      <meta name="theme-color" content="#E31E24" />
+      <link rel="manifest" href="/manifest.json" />
+
+      {/* Geo targeting — Maharashtra, India */}
+      <meta name="geo.region" content="IN-MH" />
+      <meta name="geo.placename" content="Virar, Maharashtra, India" />
+      <meta name="geo.position" content="19.4589;72.8106" />
+      <meta name="ICBM" content="19.4589, 72.8106" />
 
       {/* Open Graph */}
       <meta property="og:type" content={type} />

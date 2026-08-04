@@ -9,9 +9,9 @@ import { FooterCTA } from "../components/sections/FooterCTA";
 export const Certificates: React.FC = () => (
   <>
     <PageMeta
-      title="Certifications & Approvals | Prayag Steel & Engineering Co."
-      description="Prayag Steel holds ISO 9001:2015, PED, NACE, and ASME compliance certifications, and is an approved vendor to BARC, ISRO, NPCIL, IGCAR, and DRDO."
-      canonical="https://www.prayagsteel.in/certificates"
+      title="Certifications & Approvals | Pragyan Steel & Engineering Co."
+      description="Pragyan Steel holds ISO 9001:2015, PED, NACE, and ASME compliance certifications, and is an approved vendor to BARC, ISRO, NPCIL, IGCAR, and DRDO."
+      canonical="https://pragyan-nine.vercel.app/certificates"
     />
 
     <main>

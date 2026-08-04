@@ -72,7 +72,7 @@ export const TestingStandardsSection: React.FC = () => (
           Product <span className="text-prayag-red">Testing Standards</span>
         </h2>
         <p className="text-gray-400 font-body text-lg max-w-2xl mx-auto leading-relaxed">
-          Every Prayag product is manufactured and tested to the most current
+          Every Pragyan product is manufactured and tested to the most current
           revision of internationally recognised codes and standards.
         </p>
       </motion.div>

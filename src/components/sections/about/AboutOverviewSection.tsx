@@ -11,7 +11,7 @@ const quickStats = [
 ];
 
 export const AboutOverviewSection: React.FC = () => (
-  <section className="snap-start bg-off-white py-24 lg:py-36" aria-label="About Prayag Steel">
+  <section className="snap-start bg-off-white py-24 lg:py-36" aria-label="About Pragyan Steel">
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-20 lg:space-y-28">
 
       {/* ── Company paragraph + quick stats ───────────────────── */}
@@ -36,7 +36,7 @@ export const AboutOverviewSection: React.FC = () => (
           />
           <div className="space-y-5 text-gray-600 font-body leading-relaxed text-[15px]">
             <p>
-              Founded in 1994, Prayag Steel & Engineering Company has grown from a trading firm 
+              Founded in 1994, Pragyan Steel & Engineering Company has grown from a trading firm 
               in Mumbai into a trusted manufacturer and supplier of high-performance pipes, tubes, 
               and fittings for critical industries across India and overseas. With over three decades of 
               experience, we have built a reputation for quality, reliability, and innovation.
@@ -61,7 +61,7 @@ export const AboutOverviewSection: React.FC = () => (
 
             <p>
               With continuous investments in <strong className="text-prayag-black font-semibold">Advanced Machinery, Stringent Quality Systems, And Skilled Manpower</strong>, 
-              Prayag is committed to delivering products that meet international standards (ASTM, ASME, DIN, JIS, EN, ISO) 
+              Pragyan is committed to delivering products that meet international standards (ASTM, ASME, DIN, JIS, EN, ISO) 
               and exceed customer expectations.
             </p>
 
@@ -73,11 +73,11 @@ export const AboutOverviewSection: React.FC = () => (
 
             <p>
               Our journey has always been guided by our belief:<br />
-              <strong className="text-prayag-red font-heading tracking-wide uppercase text-lg">“STEEL. STRENGTH. PRAYAG.”</strong> – a promise of strength, precision, and trust in every product we manufacture.
+              <strong className="text-prayag-red font-heading tracking-wide uppercase text-lg">“STEEL. STRENGTH. Pragyan.”</strong> – a promise of strength, precision, and trust in every product we manufacture.
             </p>
 
             <p>
-              With a strong foundation and a vision for expansion, Prayag continues to innovate, 
+              With a strong foundation and a vision for expansion, Pragyan continues to innovate, 
               upgrade, and deliver world-class piping solutions, making us a partner of choice for 
               mission-critical projects worldwide.
             </p>
