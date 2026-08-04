@@ -116,7 +116,7 @@ export const Navbar: React.FC = () => {
               aria-label="Prayag Steel & Engineering Co. — Home"
             >
               <img
-                src="/logo-black.webp"
+                src="/logo-white.webp"
                 alt="Prayag Steel & Engineering Co. Logo"
                 className="h-10 sm:h-12 w-auto object-contain"
               />
@@ -180,7 +180,7 @@ export const Navbar: React.FC = () => {
                                   />
                                   {/* Gradient Overlay */}
                                   <div className="absolute inset-0 bg-gradient-to-b from-prayag-black/85 via-prayag-black/85 to-prayag-black/95 z-0 transition-opacity duration-300 group-hover/col:opacity-90" />
-                                  
+
                                   <div className="relative z-10 flex flex-col h-full">
                                     <Link
                                       to={`/products/${div.slug}`}

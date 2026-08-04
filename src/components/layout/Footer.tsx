@@ -24,10 +24,10 @@ export const Footer: React.FC = () => {
           {/* Brand column */}
           <div className="lg:col-span-1">
             <div className="mb-6">
-              <img 
-                src="/logo-white.webp" 
-                alt="Prayag Steel & Engineering Co. Logo" 
-                className="h-12 sm:h-14 w-auto object-contain" 
+              <img
+                src="/logo-black.webp"
+                alt="Prayag Steel & Engineering Co. Logo"
+                className="h-12 sm:h-14 w-auto object-contain"
               />
             </div>
             <p className="text-gray-400 text-sm font-body leading-relaxed">
