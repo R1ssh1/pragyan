@@ -4,6 +4,7 @@ import { BlogHeroSection } from "../components/sections/blog/BlogHeroSection";
 import { BlogGridSection } from "../components/sections/blog/BlogGridSection";
 import { FooterCTA } from "../components/sections/FooterCTA";
 import { sanityClient } from "../lib/sanity";
+import { rebrandData } from "../lib/sanityTransformer";
 import { ALL_POSTS_QUERY } from "../lib/queries";
 import type { BlogPost } from "../types/blog";
 
@@ -17,7 +18,7 @@ export const Blogs: React.FC = () => {
     sanityClient
       .fetch<BlogPost[]>(ALL_POSTS_QUERY)
       .then((data) => {
-        setPosts(data ?? []);
+        setPosts(rebrandData(data ?? []));
         setIsLoading(false);
       })
       .catch((err) => {

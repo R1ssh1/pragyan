@@ -101,6 +101,7 @@ export const SnapshotSection: React.FC = () => (
               src={umergaonFacility}
               alt="Pragyan Steel — Shirgaon manufacturing facility"
               className="w-full aspect-video object-cover rounded-2xl shadow-xl border border-gray-100"
+              loading="lazy"
             />
           </div>
 

@@ -345,7 +345,7 @@ export const ContactContentSection: React.FC = () => {
             <div className="bg-white rounded-3xl border border-gray-200 hover:border-prayag-red/40 shadow-xl shadow-gray-200/50 hover:shadow-[0_12px_40px_rgba(227,30,36,0.2)] overflow-hidden h-64 sm:h-72 w-full transition-all duration-500">
               <iframe
                 title="Pragyan Steel Location"
-                src="https://maps.google.com/maps?q=Kumbharwada,Mumbai&t=&z=14&ie=UTF8&iwloc=&output=embed"
+                src="https://maps.google.com/maps?q=Virar,Maharashtra&t=&z=14&ie=UTF8&iwloc=&output=embed"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}

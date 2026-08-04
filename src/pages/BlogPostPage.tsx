@@ -5,6 +5,7 @@ import { BlogPostHero } from "../components/sections/blog/BlogPostHero";
 import { BlogPostBody } from "../components/sections/blog/BlogPostBody";
 import { FooterCTA } from "../components/sections/FooterCTA";
 import { sanityClient } from "../lib/sanity";
+import { rebrandData } from "../lib/sanityTransformer";
 import { POST_BY_SLUG_QUERY, RELATED_POSTS_QUERY } from "../lib/queries";
 import type { BlogPostFull, BlogPostPreview } from "../types/blog";
 
@@ -29,7 +30,7 @@ export const BlogPostPage: React.FC = () => {
           setIsLoading(false);
           return;
         }
-        setPost(data);
+        setPost(rebrandData(data));
 
         // Fetch related posts if this post has a category
         if (data.category) {
@@ -38,7 +39,7 @@ export const BlogPostPage: React.FC = () => {
               RELATED_POSTS_QUERY,
               { categoryId: data.category._id, excludeId: data._id }
             );
-            setRelatedPosts(related ?? []);
+            setRelatedPosts(rebrandData(related ?? []));
           } catch {
             // Related posts are non-critical — fail silently
             setRelatedPosts([]);

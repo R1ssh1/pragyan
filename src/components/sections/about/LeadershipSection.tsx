@@ -103,7 +103,7 @@ export const LeadershipSection: React.FC = () => {
           </motion.div>
         )}
 
-        <div className="flex overflow-x-auto lg:overflow-visible lg:grid lg:grid-cols-3 gap-6 lg:gap-8 snap-x snap-mandatory lg:snap-none pb-8 lg:pb-0">
+        <div className="flex overflow-x-auto lg:flex lg:justify-center gap-6 lg:gap-8 snap-x snap-mandatory lg:snap-none pb-8 lg:pb-0">
           {leadership.map((leader, i) => (
             <motion.div
               key={leader.id}
